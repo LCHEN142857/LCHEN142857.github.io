@@ -1,11 +1,12 @@
+# SpringBoot Quick Start
+
 - 新建maven工程，目录结构如下  
 
 ![MEMO](https://img-blog.csdnimg.cn/20210701003547545.PNG?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80NTAzOTM2Nw==,size_16,color_FFFFFF,t_70#pic_center)
 
-
-
 - pom.xml
-```
+
+```xml
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
@@ -106,8 +107,10 @@
 
 </project>
 ```
-- application.properties
-```
+
+- application.properties  
+
+```yml
 # 应用名称
 spring.application.name=memo
 # 应用服务 WEB 访问端口
@@ -121,26 +124,29 @@ mybatis.config-location= classpath:mybatis-config.xml
 mybatis.type-aliases-package= com.memo.entity
 mybatis.mapper-locations=- classpath:mapper/*.xml
 ```
-- mybatis-config.xml
-```
+
+- mybatis-config.xml  
+
+```xml
 <?xml version="1.0" encoding="UTF-8" ?>
 <!DOCTYPE configuration
   PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
   "http://mybatis.org/dtd/mybatis-3-config.dtd">
 <configuration>
   <settings>
-  	<!-- 开启二级缓存 -->
-  	<setting name="cacheEnabled" value="true"/>
-  	<!-- 关闭属性之间的粘连性 -->
-  	<setting name="aggressiveLazyLoading" value="false"/>
-  	<!-- 指定使用日志的类型 -->
-  	<setting name="logImpl" value="STDOUT_LOGGING"/>
+   <!-- 开启二级缓存 -->
+   <setting name="cacheEnabled" value="true"/>
+   <!-- 关闭属性之间的粘连性 -->
+   <setting name="aggressiveLazyLoading" value="false"/>
+   <!-- 指定使用日志的类型 -->
+   <setting name="logImpl" value="STDOUT_LOGGING"/>
   </settings>
 </configuration>
 ```
 
-- MemoApplication
-```
+- MemoApplication  
+
+```java
 package com.memo;
 
 import org.springframework.boot.SpringApplication;
@@ -157,9 +163,11 @@ public class MemoApplication {
 
 ```
 
-- User
-> 新建一个数据库表与之对应
-```
+- User  
+
+> 新建一个数据库表与之对应  
+
+```java
 @Data
 public class User {
 
@@ -169,8 +177,9 @@ public class User {
 }
 ```
 
-- UserMapper
-```
+- UserMapper  
+
+```java
 @Mapper
 @Repository
 public interface UserMapper {
@@ -183,8 +192,9 @@ public interface UserMapper {
 }
 ```
 
-- UserService
-```
+- UserService  
+
+```java
 @Service
 public class UserService {
     @Autowired
@@ -200,8 +210,9 @@ public class UserService {
 }
 ```
 
-- UserController
-```
+- UserController  
+
+```java
 @RestController
 @RequestMapping("/user")
 public class UserController {
