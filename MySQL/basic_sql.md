@@ -110,7 +110,7 @@ DELIMITER $       -- 声明存储过程的结束符
 DROP PROCEDURE if EXISTS pro_emp;
 CREATE PROCEDURE pro_emp()           -- 存储过程名称(参数列表)
 BEGIN             -- 开始
-- 可以写多个sql语句;          -- sql语句+流程控制
+-- 可以写多个sql语句          -- sql语句+流程控制
 SELECT * FROM `user`;
 END $            -- 结束 结束符
 ```
@@ -196,7 +196,7 @@ SELECT @str;
 DELIMITER $
 CREATE PROCEDURE pro_testWhile(IN num INT,OUT result INT)
 BEGIN
-  - 定义一个局部变量
+  -- 定义一个局部变量
  DECLARE i INT DEFAULT 1;
  DECLARE vsum INT DEFAULT 0;
  WHILE i<=num DO
