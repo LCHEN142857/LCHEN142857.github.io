@@ -1,4 +1,55 @@
 # JetBrains KeyMap  
 
-- Generate  
-`Alt + Insert`  
+> 以下部分快捷键会在使用搜狗输入法的时候冲突，特别是有一些Ctrl+Shift的组合键，如果发现以下快捷键无效，切掉输入法重试（其他输入法如果有快捷键冲突也要切掉）。
+
+- `.`：`.sout`控制台输出，`.if`输入if表达式，`.ifn`if is none，`.ifnn`if is not none  
+- `Alt + Insert`：生成构造器，getter/setter等  
+- `Alt + Enter`：对光标所在字段提示操作。存在可以使用`Demorgan Law`（德摩根定律）的地方，可以在方法调用的地方给方法的参数列表追加参数如`, num`，然后选择`Change the Signature of func(x, num)`  
+- `Ctrl + Shift + Enter`：自动补全行尾分号  
+- `Ctrl + Shift + A`：Search Everywhere -> Acitons (search some acitons what like "about-info", switch some settings(show line, off or on)).Actions: add to watches, show line number, Mute Breakpoints  
+- `Ctrl + W`：选中光标所在的字符串单词，再次按键选中双引号内容，再次按键选中双引号，再次按键选中字符串后的逗号，再次按键选中括号内容，再次按键选中括号。。。一直到选中整行  
+- `Ctrl + Shift + W`：回退`Ctrl + W`的操作  
+- `Ctrl + W（对关键字）`：选中关键字，函数名，再次按键选中代码块，使用`Ctrl + Shift + W`不能回退  
+- `Alt + Shift + ↑↓`：当前行上下移动  
+- `Ctrl + Shift + ↑↓`：对于普通行，效果同上，对于函数名，则整个函数上下移动  
+- `Ctrl + -/=`：收起/展开当前代码块  
+- `Ctrl + Shift + -/=`：收起/展开所有代码块  
+- `Ctrl + Alt + T`：surround，用特定的语句块包围，如 if，try/catch/except，while等  
+- `Ctrl + Space（double click）`：提示  
+- `Ctrl + Shift + Space`：包含该字词的提示  
+- `Ctrl + Alt + Shift + T`：重构，再输入操作名称的首字母简写快速找到需要的重构操作
+- `Alt + J`：选中当前标签名，再次按键选中下一个标签名，包括闭标签内的标签名，再次按键。。。相当于一直向下并且在文档内循环搜索并选中  
+- `Alt + Shift + T`：回退上述操作  
+- `Ctrl + Alt + Shift + T`：一次性选中全部相同的标签名  
+- `Ctrl + Alt + V`：提取变量  
+- `Ctrl + Alt + M`：提取方法  
+- `Ctrl + Alt + L`：格式化代码  
+- `Shift + F6`：重构-重命名  
+- `Ctrl + P`：查看方法参数信息  
+- `Ctrl + Q`：查看方法的文档注释信息  
+- `Ctrl + Shift + I`：查看方法的定义实现  
+- `F2`：导航到下一处报错的地方（红色波浪线）  
+- `Ctrl + F1`：查看警告和错误的描述，再按一次，展开描述  
+- `Alt + Shift + Enter`：fix the warning  
+- `Ctrl + Shift + F7`：高亮显示光标所在的该字段  
+- `Ctrl + N`：search Classes，输入类名文件名缩写或包含字符，还可以在右上角下拉框选择`All place`，还可以按`Ctrl + Q`展示信息  
+- `Ctrl + Shift + N`：search Files  
+- `Ctrl + Alt + Shift + N`：search Symbols  
+- `Ctrl + Shift + F`：find in files  
+- `Ctrl + Shift + R`：replace in files  
+- `Alt + W`：搜索匹配时的整词匹配，同点击大写`W`  
+- `Alt + P`：搜索时切换范围到Project  
+- `Alt + M`：搜索时切换范围到Module  
+- `Alt + D`：搜索时切换范围到Directory  
+- `Alt + S`：搜索时切换范围到Scope  
+- `Ctrl + B`：checkout the define/declartion and reference, Alt + F7:checkout details of usages, right click title "Usages of xxxx in All Places", choose "Pin Tab" to fixed the tag  
+- `Shift + ESC`：hide the view  
+- `Alt + 3`：open the Find view  
+- `Ctrl + F12`：open the file structure, type "any" to search properties  
+- `Alt + 7`：open the "file structure" view  
+- `Ctrl + E`：打开最近文件的视图（还有其他视图的入口），可以直接输入进行搜索，再次`Ctrl + E`可以仅展示编辑过的，`DELETE`可以删除不想在”最近文件“中展示的文件  
+- `Ctrl + Shift + E`：打开最近文件的视图（仅有文件预览几行），可以直接输入进行搜索，再次`Ctrl + E`可以仅展示编辑过的，`DELETE`可以删除不想在”最近文件“中展示的文件  
+- `Ctrl + F8`：在当前行打断点  
+- `Ctrl + Alt + F8`：选择参数  
+- `Ctrl + F5`：Return  
+- `Ctrl + F2`：Stop  
