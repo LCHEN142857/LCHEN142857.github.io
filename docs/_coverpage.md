@@ -1,5 +1,5 @@
 <!-- ![logo](https://docsify.js.org/_media/icon.svg) -->
-![logo](/airplane.svg)
+![logo](https://iconfont.alicdn.com/s/a0f420d6-64bb-47ba-8902-39c7c08a07dc_origin.svg)
 
 # LCHEN
 
