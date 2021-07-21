@@ -1,2 +1,2 @@
 # Welcome to GitHub Pages
-### [basic git](#../Git/basic_git)
+### [basic git](https://lchen142857.github.io/Git/basic_git)
