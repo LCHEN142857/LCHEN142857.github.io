@@ -1,5 +1,5 @@
 <!-- ![logo](https://docsify.js.org/_media/icon.svg) -->
-![logo](/#/airplane.svg)
+![logo](https://lchen142857.github.io/#/airplane.svg)
 
 # LCHEN
 
