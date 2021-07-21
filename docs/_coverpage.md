@@ -2,12 +2,17 @@
 
 # LCHEN
 
-> Welcome my knowledge base.
+##　Welcome my knowledge base.
 
-* AA
-* BB
-* CC
 
-[Get Started](#quick-start)
+
+<!-- [Get Started](#quick-start) -->
 ### [basic git](https://lchen142857.github.io/#/Git/basic_git)
-### [lchen](https://lchen142857.github.io/docs/README)
+### [lchen](https://lchen142857.github.io/#/README)
+### [lchen](https://lchen142857.github.io/#/README)
+### [lchen](https://lchen142857.github.io/#/README)
+### [lchen](https://lchen142857.github.io/#/README)
+### [lchen](https://lchen142857.github.io/#/README)
+### [lchen](https://lchen142857.github.io/#/README)
+### [lchen](https://lchen142857.github.io/#/README)
+### [lchen](https://lchen142857.github.io/#/README)
