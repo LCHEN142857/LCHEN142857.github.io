@@ -9,5 +9,5 @@
 * CC
 
 [Get Started](#quick-start)
-### [basic git](Git/basic_git)
+### [basic git](https://github.com/LCHEN142857/LCHEN142857.github.io/blob/main/docs/Git/basic_git)
 ### [lchen](https://lchen142857.github.io/docs/README)
