@@ -6,7 +6,11 @@
 
 - git rebase  
 
+- git status  
+
 - git add  
+
+- git diff  
 
 - git commit  
 
