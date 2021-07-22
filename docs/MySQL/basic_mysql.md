@@ -1,4 +1,6 @@
-# Basic SQL
+# MySQL
+
+## Basic SQL
 
 - 新增一个字段列  
 
@@ -104,7 +106,7 @@ USE `study_sql`;
 ```
 ---
 
-# Procedure
+## Procedure
 
 - 创建无参存储过程  
 
