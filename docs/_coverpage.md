@@ -4,6 +4,6 @@
 
 # LCHEN
 
-## 　Welcome My Knowledge Base  
+## [Welcome My Knowledge Base](#Welcome)  
 
 <!-- ### [Start](#LCHEN) -->
