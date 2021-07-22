@@ -4,5 +4,4 @@
 
 # LCHEN
 
-##　Welcome my knowledge base.
-
+## 　Welcome LCHEN Knowledge Base  
