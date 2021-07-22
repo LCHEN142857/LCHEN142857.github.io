@@ -4,4 +4,6 @@
 
 # LCHEN
 
-## 　Welcome LCHEN Knowledge Base  
+## 　Welcome My Knowledge Base  
+
+### [Start](#quick_start)
