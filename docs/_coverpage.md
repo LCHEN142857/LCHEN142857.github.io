@@ -6,4 +6,4 @@
 
 ## 　Welcome My Knowledge Base  
 
-### [Start](#quick_start)
+### [Start](#LCHEN)
