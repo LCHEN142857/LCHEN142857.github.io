@@ -2,7 +2,8 @@
 
 - 新建maven工程，目录结构如下  
 
-![MEMO](https://img2020.cnblogs.com/blog/1900950/202107/1900950-20210701002649918-1670782454.png)
+![目录结构](https://user-images.githubusercontent.com/65496608/126672379-34f7b236-ebef-4028-a49a-31c775014b9e.png)
+
 
 - pom.xml
 
