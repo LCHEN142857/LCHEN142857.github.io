@@ -1,5 +1,5 @@
 - DOS
-    * [Basic DOS](DOS/basic_dos)
+    * [Basic CMD](DOS/basic_cmd)
 - Git
     * [Basic Git](Git/basic_git)
 
