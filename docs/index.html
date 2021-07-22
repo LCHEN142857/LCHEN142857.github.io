@@ -15,11 +15,19 @@
     window.$docsify = {
       name: 'LCHEN',
       repo: 'https://github.com/LCHEN142857/LCHEN142857.github.io.git',
-      // homepage: 'https://lchen142857.github.io/',
+      auto2top: true,
       coverpage: true,
-      // coverpage: 'cover.md',
+      executeScript: true,
+      loadSidebar: true,
+      loadNavbar: true,
+      mergeNavbar: true,
+      maxLevel: 4,
+      subMaxLevel: 2,
       search: 'auto', // default
-      loadSidebar: true
+      search: {
+          paths: 'auto',
+          pathNamespaces: ['/', '/#/']
+      },
     }
   </script>
   <!-- Docsify v4 -->
