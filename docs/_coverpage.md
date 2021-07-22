@@ -6,4 +6,4 @@
 
 ## 　Welcome My Knowledge Base  
 
-### [Start](#LCHEN)
+<!-- ### [Start](#LCHEN) -->
