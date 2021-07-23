@@ -8,7 +8,6 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
   <meta name="description" content="Tech-Knowledge">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
-  <meta name="google-site-verification" content="6t0LoIeFksrjF4c9sqUEsVXiQNxLp2hgoqo0KryT-sE" />
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
   <!-- <link rel="stylesheet" href="//unpkg.com/docsify/themes/buble.css"> -->
 </head>
@@ -16,12 +15,6 @@
 <body>
   <div id="app"></div>
   <script>
-    // Set html "lang" attribute based on URL
-    var lang = location.hash.match(/#\/(es|zh-cn)\//);
-
-    if (lang) {
-      document.documentElement.setAttribute('lang', lang[1]);
-    }
     window.$docsify = {
       name: 'LCHEN',
       repo: 'https://github.com/LCHEN142857/LCHEN142857.github.io.git',
@@ -38,39 +31,14 @@
         paths: 'auto',
         pathNamespaces: ['/', '/#/', '/zh-cn/']
       },
-      alias: {
-        '/es/(.*)':
-          'https://raw.githubusercontent.com/docsifyjs/docs-es/master/$1',
-        '/zh-cn/(.*)':
-          'https://cdn.jsdelivr.net/gh/docsifyjs/docs-zh@master/$1',
-      },
-     
+      
     };
   </script>
   <!-- Docsify v4 -->
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>
   <!-- <script src="//cdn.jsdelivr.net/npm/docsify/lib/docsify.min.js"></script> -->
   <script src="//cdn.jsdelivr.net/npm/docsify/lib/plugins/search.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
   <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-markdown.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-nginx.min.js"></script>
-  <script src="//cdn.jsdelivr.net/npm/prismjs@1/components/prism-php.min.js"></script>
-  <script>
-      (function () {
-        function loadJS(src, attrs) {
-          document.write(
-            '<script src="' + src + '" ' + (attrs || '') + '><\/script>'
-          );
-        }
-
-        // Public site only
-        if (/docsify/.test(location.host)) {
-          loadJS('//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/ga.min.js');
-          loadJS('//cdn.jsdelivr.net/npm/docsify@4/lib/plugins/matomo.min.js');
-        }
-      })();
-  </script>
-  <script src="//cdn.jsdelivr.net/npm/vue@2/dist/vue.min.js"></script>
 </body>
 
 </html>
