@@ -1,7 +1,7 @@
 - DOS
-    * [Basic CMD](DOS/basic_cmd)
+    * [Quick Start CMD](DOS/quick_start_cmd)
 - Git
-    * [Basic Git](Git/basic_git)
+    * [Quick Start Git](Git/quick_start_git)
 
 - KeyMap
     * [Jetbrains KeyMap](KeyMap/jetbrains_keymap)
@@ -10,11 +10,10 @@
     
     
 - MySQL
-    * [Basic MySQL](MySQL/basic_mysql)
+    * [Quick Start MySQL](MySQL/quick_start_mysql)
 
 - Shell
-    * [Basic Shell](Shell/basic_shell)
+    * [Quick Start Shell](Shell/quick_start_shell)
 
 - SpringBoot
-    * [Quick Start](SpringBoot/springboot_start)
-    * [What is SpringBoot](SpringBoot/what_is_spring_boot)
+    * [Quick Start SpringBoot](SpringBoot/quick_start_springboot)
