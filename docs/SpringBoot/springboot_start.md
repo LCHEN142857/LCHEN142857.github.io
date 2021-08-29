@@ -1,9 +1,8 @@
-# SpringBoot Quick Start
+# Quick Start SpringBoot
 
 - 新建maven工程，目录结构如下  
 
 ![目录结构](https://user-images.githubusercontent.com/65496608/126672379-34f7b236-ebef-4028-a49a-31c775014b9e.png)
-
 
 - pom.xml
 

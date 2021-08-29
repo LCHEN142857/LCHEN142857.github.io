@@ -1,4 +1,4 @@
-# Basic CMD
+# Quick Start CMD
 
 - cd  
 

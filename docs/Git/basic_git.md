@@ -1,4 +1,4 @@
-# Basic Git  
+# Quick Start Git  
 
 - git clone  
 

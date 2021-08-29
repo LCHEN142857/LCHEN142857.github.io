@@ -1,6 +1,7 @@
 # JetBrains KeyMap  
 
 > 以下部分快捷键会在使用搜狗输入法的时候冲突，特别是有一些Ctrl+Shift的组合键，如果发现以下快捷键无效，切掉输入法重试（其他输入法如果有快捷键冲突也要切掉）。
+> Jetbrains 的 debug，可以看到变量中不可见字符，比如`\t``\n`，当你使用空格匹配无效的时候可以试试debug
 
 - `.`：`.sout`控制台输出，`.if`输入if表达式，`.ifn`if is none，`.ifnn`if is not none  
 - `Alt + Insert`：生成构造器，getter/setter等  
@@ -53,3 +54,4 @@
 - `Ctrl + Alt + F8`：选择参数  
 - `Ctrl + F5`：Return  
 - `Ctrl + F2`：Stop  
+- `Alt + Insert`：generate  
