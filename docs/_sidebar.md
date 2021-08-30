@@ -4,6 +4,7 @@
     * [Quick Start CMD](DOS/quick_start_cmd)
 - Git
     * [Quick Start Git](Git/quick_start_git)
+    * [Git Tips](Git/git_tips   )
 
 - KeyMap
     * [Jetbrains KeyMap](KeyMap/jetbrains_keymap)
