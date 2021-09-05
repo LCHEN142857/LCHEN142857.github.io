@@ -33,4 +33,7 @@ git push --set-upstream origin your_branch(first time)
 git add xxx/xxxx
 git commit --amend --no-edit
 git push -f
+---
+# 查看提交时间，信息，文件变更
+git log --name-status
 ```
