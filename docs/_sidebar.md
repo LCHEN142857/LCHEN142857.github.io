@@ -5,6 +5,8 @@
 - Git
     * [Quick Start Git](Git/quick_start_git)
     * [Git Tips](Git/git_tips   )
+- IDE
+    * [JetBrains Tips](IDE/Jetbrains_Tips)
 
 - KeyMap
     * [Jetbrains KeyMap](KeyMap/jetbrains_keymap)
