@@ -12,6 +12,7 @@
     * [Jetbrains KeyMap](KeyMap/jetbrains_keymap)
 
 - Linux
+    * [Linux Command Tips](Linux/Linux_Command_Tips)
     
 - Mybatis
     * [Mybatis Tips](Mybatis/mybatis_tips)
