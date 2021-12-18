@@ -13,7 +13,12 @@
 
 - Linux
     * [Linux Command Tips](Linux/Linux_Command_Tips)
-    
+
+- LeetCode
+   * [Add Two Numbers](LeetCode/add_two_numbers)
+   * [Integer to Roman](LeetCode/integer_to_roman)
+   * [Longest Substring Without Repeating Characters](LeetCode/longest_substring_without_repeating_characters)
+
 - Mybatis
     * [Mybatis Tips](Mybatis/mybatis_tips)
 - MySQL
