@@ -1,4 +1,4 @@
-```java
+```javascript
 public class SolutionTwoSum {
 
     public static void main(String[] args) {
