@@ -55,3 +55,4 @@
 - `Ctrl + F5`：Return  
 - `Ctrl + F2`：Stop  
 - `Alt + Insert`：generate  
+- `Alt + ↑/↓`：跳转光标到上/下一个方法名，最顶层是类名，最低层是类定义的花括号`}`
