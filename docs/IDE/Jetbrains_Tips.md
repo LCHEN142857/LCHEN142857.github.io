@@ -18,6 +18,6 @@
   Configure terminal keybindings > Copy、Paste (Remove Ctrl C and Ctrl V)
   ![image](https://user-images.githubusercontent.com/65496608/187031800-8eb642d1-bcfa-4aba-92ee-4a37847f610c.png)
   ![image](https://user-images.githubusercontent.com/65496608/187031698-4314b44a-8b65-445c-bd2a-253fe367dd79.png)
-- 提高优化Imports为星号的阈值
-  Editor > General > Code Style > Java > Imports
+- 提高优化Imports为星号的阈值  
+  Editor > General > Code Style > Java > Imports  
   ![image](https://user-images.githubusercontent.com/65496608/234561801-2f16ddf4-5504-4771-a192-1065512a9c46.png)
