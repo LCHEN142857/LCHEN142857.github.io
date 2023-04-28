@@ -23,4 +23,4 @@
   ![image](https://user-images.githubusercontent.com/65496608/234561801-2f16ddf4-5504-4771-a192-1065512a9c46.png)
 - 优化未使用的Imports  
   Editor > General > Auto Import > Java  
-  ![image](https://user-images.githubusercontent.com/65496608/235082422-3bfd9615-b99a-497a-b237-117ca095cc7d.png)
+  ![image](https://user-images.githubusercontent.com/65496608/235082722-ad3bbf96-b721-49f5-8079-30938a574720.png)
