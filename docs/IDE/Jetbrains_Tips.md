@@ -21,6 +21,8 @@
 - 提高优化Imports为星号的阈值  
   Editor > Code Style > Java > Imports  
   ![image](https://user-images.githubusercontent.com/65496608/234561801-2f16ddf4-5504-4771-a192-1065512a9c46.png)
-- 优化未使用的Imports  
+- 优化Imports  
   Editor > General > Auto Import > Java  
   ![image](https://user-images.githubusercontent.com/65496608/235082722-ad3bbf96-b721-49f5-8079-30938a574720.png)
+  ![image](https://github.com/LCHEN142857/LCHEN142857.github.io/assets/65496608/0b7f8784-0653-42fc-ad06-bc64e1ac2792)
+
