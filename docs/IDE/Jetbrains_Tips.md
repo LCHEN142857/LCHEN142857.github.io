@@ -24,5 +24,6 @@
 - 优化Imports  
   Editor > General > Auto Import > Java  
   ![image](https://user-images.githubusercontent.com/65496608/235082722-ad3bbf96-b721-49f5-8079-30938a574720.png)
-  ![image](https://github.com/LCHEN142857/LCHEN142857.github.io/assets/65496608/0b7f8784-0653-42fc-ad06-bc64e1ac2792)
+  ![image](https://github.com/LCHEN142857/LCHEN142857.github.io/assets/65496608/0077297d-db30-4f25-a546-3ef47cb0028d)
+
 
