@@ -26,7 +26,7 @@
   ![image](https://user-images.githubusercontent.com/65496608/235082722-ad3bbf96-b721-49f5-8079-30938a574720.png)
   ![image](https://github.com/LCHEN142857/LCHEN142857.github.io/assets/65496608/0077297d-db30-4f25-a546-3ef47cb0028d)
 - 优化注释格式  
-  Editor > Code Style > Java > Code Generatic > Comment Code
+  Editor > Code Style > Java > Code Generatic > Comment Code  
   Editor > Code Style > XML > Code Generation > Comments
   ![image](https://github.com/LCHEN142857/LCHEN142857.github.io/assets/65496608/1851d12e-60f8-4500-91f3-0257bc426839)
   ![image](https://github.com/LCHEN142857/LCHEN142857.github.io/assets/65496608/e3f38dd5-342c-442b-8980-d28bc4134cad)
