@@ -30,7 +30,7 @@
   Editor > Code Style > XML > Code Generation > Comments
   ![image](https://github.com/LCHEN142857/LCHEN142857.github.io/assets/65496608/1851d12e-60f8-4500-91f3-0257bc426839)
   ![image](https://github.com/LCHEN142857/LCHEN142857.github.io/assets/65496608/e3f38dd5-342c-442b-8980-d28bc4134cad)
-- 热部署加载文件快捷键
+- 热部署加载文件快捷键  
   Keymap > 搜索“compile and reload file”
   ![image](https://github.com/LCHEN142857/LCHEN142857.github.io/assets/65496608/27624c50-6fb5-4a0f-80c5-f9be922319b9)
 
