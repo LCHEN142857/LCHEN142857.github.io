@@ -33,5 +33,9 @@
 - 热部署加载文件快捷键  
   Keymap > 搜索“compile and reload file”
   ![image](https://github.com/LCHEN142857/LCHEN142857.github.io/assets/65496608/27624c50-6fb5-4a0f-80c5-f9be922319b9)
+- 增加匹配查找/替换的最大值(根据电脑性能适当调整)  
+  Advanceed Settings > FInd/Replace
+  ![image](https://github.com/LCHEN142857/LCHEN142857.github.io/assets/65496608/a5f6e34c-8cfb-4dfd-80b4-2e27bb119e3e)
+
 
 
