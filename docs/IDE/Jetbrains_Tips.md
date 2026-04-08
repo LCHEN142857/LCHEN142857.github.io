@@ -1,6 +1,8 @@
 # Tips
 
 ## 新装 Jetbrains IDE 的配置
+- [settings.zip](https://github.com/user-attachments/files/26570925/settings.zip)
+  
 - 关闭 Reopen  
   Appearance & Behavior > System Settings > Project > close 'Reopen projects on startup'
   ![image](https://user-images.githubusercontent.com/65496608/158004682-6e016c85-fdce-4ea2-8571-c6693dc10a27.png)
