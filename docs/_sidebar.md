@@ -1,7 +1,6 @@
 - C
     * [Format Conversion Symbol](C/format_transfer)
-- Coding
-    * [Function Name](Coding/function_name)
+    * [Exit Code 139 / SIGSEGV](C/exit_code_139_sigsegv)
 - DOS
     * [Quick Start CMD](DOS/quick_start_cmd)
 - Git
@@ -15,11 +14,6 @@
 
 - Linux
     * [Linux Command Tips](Linux/Linux_Command_Tips)
-
-- LeetCode
-   * [Add Two Numbers](LeetCode/add_two_numbers)
-   * [Integer to Roman](LeetCode/integer_to_roman)
-   * [Longest Substring Without Repeating Characters](LeetCode/longest_substring_without_repeating_characters)
 
 - Mybatis
     * [Mybatis Tips](Mybatis/mybatis_tips)
